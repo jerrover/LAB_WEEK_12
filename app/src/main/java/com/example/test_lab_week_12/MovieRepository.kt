@@ -1,6 +1,6 @@
-package com.example.lab_week_13
+package com.example.test_lab_week_12
 
-import com.example.lab_week_13.model.Movie
+import com.example.test_lab_week_12.model.Movie
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

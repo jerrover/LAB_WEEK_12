@@ -1,4 +1,4 @@
-package com.example.lab_week_13
+package com.example.test_lab_week_12
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.example.lab_week_13.model
+package com.example.test_lab_week_12.model
 
 import com.squareup.moshi.JsonClass
 
